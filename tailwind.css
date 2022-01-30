@@ -1,0 +1,38 @@
+.mt-8 {
+  margin-top: 2rem
+}
+
+.w-32 {
+  width: 8rem
+}
+
+.self-center {
+  align-self: center
+}
+
+.rounded-xl {
+  border-radius: 0.75rem
+}
+
+.bg-cyan-200 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(165 243 252 / var(--tw-bg-opacity))
+}
+
+.p-1 {
+  padding: 0.25rem
+}
+
+.px-2 {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem
+}
+
+.text-center {
+  text-align: center
+}
+
+.text-cyan-800 {
+  --tw-text-opacity: 1;
+  color: rgb(21 94 117 / var(--tw-text-opacity))
+}
